@@ -260,66 +260,82 @@ To contribute to innovative software and AI-driven products by applying analytic
 <!--                PART 2 : PROJECTS & EXPERIENCE             -->
 <!-- ========================================================= -->
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N1dWRoY2h0YTFkbm93ZHVndmQ5eTJjbnQyYjV4dTZ4Mmx3a3M5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="30"> Featured Projects
+<!-- ========================================================= -->
+<!--                 FEATURED PROJECTS                         -->
+<!-- ========================================================= -->
 
-<div align="center">
+<h1 align="center">
+🚀 Featured Projects
+</h1>
 
-### 🚀 Projects that showcase my expertise in Data Science, AI and Full Stack Development
+<p align="center">
+Projects that demonstrate my expertise in <b>Data Science</b>, <b>Artificial Intelligence</b>,
+<b>Machine Learning</b>, and <b>Full Stack Development</b>.
+</p>
 
-</div>
-
----
+<br>
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🛡️ Dynamic Attendance Management & Analytics System
+## 🛡️ Smart QR Attendance System
 
-### ⭐ Featured Project
+### ⭐ Flagship Project
 
-A production-oriented **QR-based Smart Attendance System** designed for educational institutions with multi-level authentication and analytics.
+A secure, enterprise-inspired attendance management platform built for colleges and universities.
 
-### ✨ Highlights
+### ✨ Key Features
 
-- 🔐 3-Layer Secure Attendance
-- 📱 Dynamic QR Authentication
-- 👨‍🏫 Admin / Faculty / Student Portals
-- 📍 Secure Verification
-- 📊 Attendance Analytics
+- 🔐 Dynamic QR Authentication
+- 📍 GPS Location Verification
+- 👨‍🏫 Admin, Faculty & Student Portals
+- 📱 Device Binding
+- 📊 Live Attendance Analytics
+- 📈 Dashboard & Reports
 - 📄 CSV / Excel Export
-- 📈 Dashboard Reports
-- ⚡ Full Stack Architecture
+- ⚡ JWT Authentication
+- 🌐 REST API Architecture
 
-### 🛠 Tech Stack
+### 🛠 Built With
 
-`React`
+<p>
 
-`Node.js`
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts"/>
 
-`Express`
+</p>
 
-`MongoDB`
+### Highlights
 
-`TypeScript`
+✔ Proxy-resistant attendance
 
-`JWT`
+✔ Real-time session management
 
-`REST APIs`
+✔ Scalable architecture
+
+✔ Responsive UI
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/RushikeshPatil03/Smart-Attendance-System)
-
-[![Live Demo](https://img.shields.io/badge/Demo-Coming_Soon-blue?style=for-the-badge)](#)
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=Smart-Attendance-System&theme=tokyonight&hide_border=true"/>
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img
+width="95%"
+src="https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript"/>
 
 </td>
 
@@ -333,49 +349,49 @@ A production-oriented **QR-based Smart Attendance System** designed for educatio
 
 <tr>
 
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=AutoAnalyze&theme=tokyonight&hide_border=true"/>
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=AutoAnalyze&theme=tokyonight&hide_border=true"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📊 AutoAnalyze
 
-An intelligent Machine Learning platform capable of automatically analysing datasets and generating meaningful insights.
+Machine Learning platform that automatically explores datasets and generates meaningful insights.
 
 ### Features
 
-- Dataset Analysis
-
-- Data Cleaning
-
-- Predictive Insights
-
-- Visualization
-
-- Machine Learning
-
-- Automated Reports
+- 📂 Dataset Upload
+- 🧹 Data Cleaning
+- 📊 Exploratory Data Analysis
+- 🤖 ML Model Training
+- 📈 Visualization
+- 📑 Automated Reports
 
 ### Technologies
 
-`Python`
+<p>
 
-`Pandas`
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 
-`NumPy`
+</p>
 
-`Matplotlib`
+Libraries
 
-`Scikit-learn`
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/RushikeshPatil03/AutoAnalyze)
-
-[![Demo](https://img.shields.io/badge/Demo-Coming_Soon-blue?style=for-the-badge)](#)
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
@@ -389,39 +405,41 @@ An intelligent Machine Learning platform capable of automatically analysing data
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏨 Hotel Room Booking System
+## 🏨 Hotel Booking System
 
-A command-line hotel management application implementing booking workflows and room allocation.
+A Python-based booking platform implementing room allocation, customer management and reservation workflows.
 
 ### Features
 
-- Booking Management
+- 🏨 Room Booking
+- 📅 Reservation Management
+- 👥 Customer Records
+- 💳 Billing
+- 📋 Availability Tracking
 
-- Room Availability
+### Built Using
 
-- Customer Records
+<p>
 
-- Check In / Out
+<img src="https://skillicons.dev/icons?i=python,mongodb"/>
 
-- CLI Interface
-
-### Tech Stack
-
-`Python`
-
-`MongoDB`
+</p>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/RushikeshPatil03/Hotel_Booking_System)
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=Hotel_Booking_System&theme=tokyonight&hide_border=true"/>
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=Hotel_Booking_System&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -431,54 +449,275 @@ A command-line hotel management application implementing booking workflows and r
 
 ---
 
-# 💼 Experience Timeline
+<table>
 
-```text
-2025
-│
-├── Personifwy
-│      Data Science with Python Intern
-│
-│      ✓ Exploratory Data Analysis
-│      ✓ Data Preprocessing
-│      ✓ Credit Risk EDA
-│      ✓ Pandas
-│      ✓ NumPy
-│      ✓ Matplotlib
-│      ✓ Seaborn
-│
-├────────────────────────────────────────
-│
-2024
-│
-├── EZTS
-│      Python Programming Intern
-│
-│      ✓ Python Programming
-│      ✓ OOP
-│      ✓ File Handling
-│      ✓ Exception Handling
-│      ✓ Data Structures
-│      ✓ Practical Applications
-│
-└────────────────────────────────────────
-<!-- ========================================================= -->
-<!--                  PART 3 : COMMUNITY & PROFILE             -->
-<!-- ========================================================= -->
+<tr>
 
-# 🏅 Certifications
+<td width="50%" align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=Hostel-Management-System&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏢 Hostel Management System
+
+A role-based hostel administration platform developed for efficient student and warden management.
+
+### Core Features
+
+- 👨‍🎓 Student Management
+- 🛏 Room Allocation
+- 📢 Notices
+- 📝 Complaints
+- 📊 Reports
+- 🔒 Authentication
+
+### Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css"/>
+
+</p>
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">
+
+📌 Project Statistics
+
+</h2>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RushikeshPatil03&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RushikeshPatil03&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h2 align="center">
+
+⚙ Development Philosophy
+
+</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Quest%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Salesforce-Agentblazer%20Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+| Principle | Description |
+|-----------|-------------|
+| 🧩 Clean Architecture | Maintainable and modular code |
+| 🔒 Security First | Authentication and secure APIs |
+| 📈 Scalability | Applications designed for growth |
+| 🎯 User Experience | Simple, responsive interfaces |
+| 🚀 Performance | Efficient backend and frontend |
+| 🤝 Collaboration | Git, GitHub and Agile workflow |
 
 </div>
+
+---
+
+<div align="center">
+
+### 💡 *"Every project is an opportunity to learn, innovate, and solve real-world problems."*
+
+</div>
+
+<!-- ========================================================= -->
+<!--                 END OF PART 2                            -->
+<!-- ========================================================= -->
+
+<!-- ========================================================= -->
+<!--           EXPERIENCE • CERTIFICATIONS • ACHIEVEMENTS      -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+💼 Experience Journey
+</h1>
+
+<p align="center">
+My journey of learning, building and continuously improving through internships,
+projects and certifications.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 Data Science Intern
+
+### Personifwy
+
+📅 **2025**
+
+Working on practical Data Science workflows using Python.
+
+### Responsibilities
+
+- 📊 Exploratory Data Analysis
+- 🧹 Data Cleaning
+- 📈 Data Visualization
+- 🤖 Machine Learning Basics
+- 🐍 Python Programming
+- 📑 Business Insights
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 Python Programming Intern
+
+### EZTS
+
+📅 **2024**
+
+Built practical Python applications while strengthening programming fundamentals.
+
+### Responsibilities
+
+- Object Oriented Programming
+- File Handling
+- Exception Handling
+- Data Structures
+- Problem Solving
+- Mini Projects
+
+### Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+| Qualification | Institute | Year | Performance |
+|---------------|-----------|------|-------------|
+| 🎓 B.E. Computer Science (Data Science) | Ballari Institute of Technology & Management | 2023 – 2027 | **CGPA: 8.95** |
+| 📚 PUC | KLE'S GI Bagewadi College | 2021 – 2023 | **88.5%** |
+| 🏫 SSLC | Karnataka State Board | 2021 | — |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Quest_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Salesforce-Agentblazer_Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td>
+
+### ☁ AWS Cloud Quest
+
+- Cloud Fundamentals
+- Core AWS Services
+- Hands-on Learning
+
+</td>
+
+<td>
+
+### ⚡ Salesforce
+
+- Agentblazer Champion
+- CRM Fundamentals
+- Trailhead Learning
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📊 Microsoft Power BI
+
+- Dashboards
+- Reports
+- Data Visualization
+
+</td>
+
+<td>
+
+### 🐍 Python
+
+- Programming
+- Problem Solving
+- Practical Applications
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -486,53 +725,118 @@ A command-line hotel management application implementing booking workflows and r
 
 <div align="center">
 
-| Achievement | Description |
-|-------------|-------------|
-| 🥈 HackArena Hackathon | 6th Place among 50+ Teams |
-| ☁️ AWS Cloud Quest | Cloud Practitioner |
+| 🏅 Achievement | ⭐ Details |
+|---------------|-----------|
+| 🥈 HackArena Hackathon | Secured **6th Place** among 50+ teams |
+| 🎯 Academic Excellence | Maintaining **CGPA 8.95** |
+| ☁ AWS Cloud Quest | Successfully Completed |
 | ⚡ Salesforce Agentblazer | Champion Badge |
-| 📊 Power BI | Microsoft Certified |
-| 🎯 Academic Excellence | CGPA 8.95 |
-| 🚀 Data Science Intern | Personifwy |
-| 💻 Python Intern | EZTS |
+| 📊 Power BI | Data Analytics Certification |
+| 🚀 Data Science Internship | Personifwy |
+| 💻 Python Internship | EZTS |
 
 </div>
 
 ---
 
-# 🌱 Currently Working On
-
-- 🔭 Smart QR Based Attendance Management System
-
-- 🌱 Advanced Machine Learning
-
-- ☁️ AWS Cloud
-
-- ⚛️ React Ecosystem
-
-- 🚀 Backend Development
-
-- 🤖 AI Applications
-
----
-
-# 🤝 Open Source Goals
-
-- Contribute to impactful open-source projects
-
-- Collaborate on AI & Data Science applications
-
-- Learn from experienced developers
-
-- Build scalable full-stack applications
-
-- Share knowledge with the developer community
-
----
-
-# 🌐 Coding Profiles
+# 🌱 Currently Learning
 
 <div align="center">
+
+| AI | Backend | Cloud | Development |
+|:--:|:-------:|:-----:|:-----------:|
+| 🤖 Machine Learning | 🚀 Node.js | ☁ AWS | ⚛ React |
+| 🧠 Deep Learning | 🔥 Express | 🐳 Docker | 📱 Responsive UI |
+| 📊 Data Analytics | 🗄 MongoDB | 🔄 CI/CD | 🧩 System Design |
+
+</div>
+
+---
+
+# 🎯 Career Goals
+
+<div align="center">
+
+```text
+🎓 Graduate in Data Science
+          │
+          ▼
+💻 Software Engineer
+          │
+          ▼
+🤖 Machine Learning Engineer
+          │
+          ▼
+📈 Data Scientist
+          │
+          ▼
+☁ AI Solutions Architect
+```
+
+</div>
+
+---
+
+# 🤝 Open Source Vision
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌍 Community
+
+- Contribute to Open Source
+- Collaborate with Developers
+- Learn Modern Technologies
+- Share Knowledge
+
+</td>
+
+<td width="50%">
+
+### 🚀 Future Goals
+
+- Build AI Products
+- Publish Open Source Projects
+- Mentor Beginners
+- Create Scalable Software
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+### ⭐ *"Success comes from continuous learning, consistent effort, and solving meaningful problems."*
+
+</div>
+
+<!-- ========================================================= -->
+<!--                  END OF PART 3                           -->
+<!-- ========================================================= -->
+<!-- ========================================================= -->
+<!--         GITHUB COMMUNITY • CONTACT • DASHBOARD            -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+🌍 Connect With Me
+</h1>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rushikesh-patil-75166a315/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rushipatil7611@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/RushikeshPatil03">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -542,17 +846,65 @@ A command-line hotel management application implementing booking workflows and r
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rushikesh-patil-75166a315/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+</p>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
+---
 
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RushikeshPatil03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RushikeshPatil03&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshPatil03&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RushikeshPatil03&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=RushikeshPatil03&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📑 GitHub Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RushikeshPatil03&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RushikeshPatil03&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RushikeshPatil03&theme=tokyonight"/>
 
 </div>
 
@@ -560,47 +912,106 @@ A command-line hotel management application implementing booking workflows and r
 
 # 🐍 Contribution Snake
 
+> ⚠️ This animation requires a GitHub Action in your repository.
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/RushikeshPatil03/RushikeshPatil03/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Calendar
+# 💻 Development Workflow
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/RushikeshPatil03"/>
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Design
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Continuous Improvement
+```
 
 </div>
 
 ---
 
-# 💬 Random Dev Quote
+# 💬 Developer Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> "The best software isn't built by writing more code.
+> It's built by solving the right problems with clean solutions."
 
 </div>
 
 ---
 
-# 🎵 Spotify
+# 🤝 Let's Collaborate
 
-<div align="center">
+<table>
 
-<!-- Replace after connecting Spotify -->
+<tr>
 
-<img src="https://novatorem.vercel.app/api/spotify"/>
+<td width="50%">
 
-</div>
+### 🚀 Interested In
+
+- Artificial Intelligence
+
+- Machine Learning
+
+- Data Science
+
+- Backend Development
+
+- Full Stack Projects
+
+- Open Source
+
+</td>
+
+<td width="50%">
+
+### 📬 Reach Out For
+
+- Collaboration
+
+- Internship Opportunities
+
+- Hackathons
+
+- Open Source
+
+- Project Discussions
+
+- Technical Networking
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 👀 Visitor Counter
+# 👀 Profile Visitors
 
 <div align="center">
 
@@ -610,18 +1021,20 @@ A command-line hotel management application implementing booking workflows and r
 
 ---
 
-# 💖 Support
+# ⭐ Support My Work
 
 <div align="center">
 
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+If you enjoy my projects, consider giving them a ⭐ and following my journey.
+
+<br><br>
 
 <a href="https://github.com/RushikeshPatil03">
-<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rushikesh-patil-75166a315/">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -630,12 +1043,12 @@ If you like my work, consider giving a ⭐ to my repositories and connecting wit
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+## 💙 Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
 
 <!-- ========================================================= -->
-<!--                     END OF README                         -->
+<!--                  END OF PART 4                           -->
 <!-- ========================================================= -->
