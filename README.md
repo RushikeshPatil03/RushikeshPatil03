@@ -8,6 +8,7 @@ I am a **Data Analyst & Python Developer** passionate about turning raw data int
 - **Web Frameworks:** Streamlit
 
 ### 🚀 Featured Projects
+- **Dynamic Attendance System for Colleges:** A Role Based Dynamic Attendance & Analytics System for Colleges.
 - **AutoAnalyze:** An interactive Streamlit dashboard for automated data exploration.
 - **Crime Data Analysis:** A comprehensive Power BI dashboard tracking and visualizing crime patterns.
 
