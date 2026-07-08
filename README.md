@@ -139,7 +139,7 @@ To contribute to innovative software and AI-driven products by applying analytic
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,typescript"/>
 
 </p>
 
@@ -311,7 +311,7 @@ A production-oriented **QR-based Smart Attendance System** designed for educatio
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/RushikeshPatil03/Smart-Attendance-System)
 
 [![Live Demo](https://img.shields.io/badge/Demo-Coming_Soon-blue?style=for-the-badge)](#)
 
@@ -319,7 +319,7 @@ A production-oriented **QR-based Smart Attendance System** designed for educatio
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=Smart-Attendance-System&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -335,13 +335,13 @@ A production-oriented **QR-based Smart Attendance System** designed for educatio
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AUTOANALYSE&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=AutoAnalyze&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 <td width="50%">
 
-## 📊 AutoAnalyse
+## 📊 AutoAnalyze
 
 An intelligent Machine Learning platform capable of automatically analysing datasets and generating meaningful insights.
 
@@ -373,7 +373,7 @@ An intelligent Machine Learning platform capable of automatically analysing data
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/RushikeshPatil03/AutoAnalyze)
 
 [![Demo](https://img.shields.io/badge/Demo-Coming_Soon-blue?style=for-the-badge)](#)
 
@@ -415,13 +415,13 @@ A command-line hotel management application implementing booking workflows and r
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/RushikeshPatil03/Hotel_Booking_System)
 
 </td>
 
 <td>
 
-<img src="https://cdn-icons-png.flaticon.com/512/139/139899.png" width="220">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RushikeshPatil03&repo=Hotel_Booking_System&theme=tokyonight&hide_border=true"/>
 
 </td>
 
