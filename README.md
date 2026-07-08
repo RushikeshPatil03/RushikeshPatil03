@@ -12,5 +12,5 @@ I am a **Data Analyst & Python Developer** passionate about turning raw data int
 - **Crime Data Analysis:** A comprehensive Power BI dashboard tracking and visualizing crime patterns.
 
 ### 📬 Connect with me
-- [LinkedIn](YOUR_LINK_HERE)
-- [Portfolio/Email](YOUR_LINK_HERE)
+- [LinkedIn](https://www.linkedin.com/in/rushikesh-patil-75166a315/)
+- [Portfolio/Email](rushipatil7611@gmail.com)
