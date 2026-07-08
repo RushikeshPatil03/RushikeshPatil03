@@ -1,8 +1,16 @@
-# Create the markdown file
-echo "# Hi, I'm Rushikesh!" >> README.md
+# Hi there, I'm Rushikesh Patil! 👋
 
-# Stage, commit, and push the file to GitHub
-git add README.md
-git commit -m "Initial profile README"
-git branch -M main
-git push -u origin main
+I am a **Data Analyst & Python Developer** passionate about turning raw data into actionable insights and building smart automation tools.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL, DAX
+- **Data Analytics & Visualization:** Power BI, Excel, Pandas, NumPy, Plotly
+- **Web Frameworks:** Streamlit
+
+### 🚀 Featured Projects
+- **AutoAnalyze:** An interactive Streamlit dashboard for automated data exploration.
+- **Crime Data Analysis:** A comprehensive Power BI dashboard tracking and visualizing crime patterns.
+
+### 📬 Connect with me
+- [LinkedIn](YOUR_LINK_HERE)
+- [Portfolio/Email](YOUR_LINK_HERE)
